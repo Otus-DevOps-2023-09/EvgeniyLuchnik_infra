@@ -17,3 +17,5 @@ Config:
 
     bastion_IP = 51.250.12.167
     someinternalhost_IP = 10.128.0.18
+    testapp_IP = 158.160.115.141
+    testapp_port = 9292
